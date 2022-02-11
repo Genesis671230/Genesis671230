@@ -8,3 +8,4 @@
 Genesis671230/Genesis671230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://app.daily.dev/blackeyed2601"><img src="https://api.daily.dev/devcards/ea0b38ef22a746e287ccd9cc4c62ea89.png?r=9ww" width="400" alt="Genesis's Dev Card"/></a>

@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Genesis671230
-- 👀 I’m interested in ...Blockchain Technology, API, Web development. 
-- 🌱 I’m currently learning ...python, Front-End, Back-End, Web Development, Wordpress Development.
+- 👋 Hi, I’m @Hamza
+- 👀 I’m interested in ...Reactjs,Solidity,Blockchain Technology, API, Web development. 
+- 🌱 I’m currently learning ...python, Front-End, Back-End, Web Development,Blockchain, Hyperledger.
 - 💞️ I’m looking to collaborate on ...Blockchain Technology, Web Development, Javascript Projects
 - 📫 How to reach me ...Reach me Via my Email
 

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hamza
+- 👋 Hi, 
 - 👀 I’m interested in ...Reactjs,Solidity,Blockchain Technology, API, Web development. 
 - 🌱 I’m currently learning ...python, Front-End, Back-End, Web Development,Blockchain, Hyperledger.
 - 💞️ I’m looking to collaborate on ...Blockchain Technology, Web Development, Javascript Projects

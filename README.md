@@ -1,25 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=genesis671230.genesis671230" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamza!;" />
 </h1>
-
-<h3 align="center">A passionate software developer</h3>
-
+<h3 align="center">Co-Founder & CTO</h3>
 <br/>
-
 <div align="center">
- 
- 🔭 I’m currently working on NFT marketplace for Artfi**
- 
- 🌱 I’m currently learning **LLMs, Neural Network, AWS**
+🔭 I’m currently leading the development of innovative SaaS solutions for business companies and creating cutting-edge AI and blockchain products.
 
-💬 Ask me about **Node.js, React, Solidity, Python... or anything [here](https://github.com/genesis671230/genesis671230/issues)**
+🌱 I’m currently expanding my expertise in Advanced AI models, Neural Networks, and AWS Cloud Infrastructure
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Let's discuss Enterprise Solutions, Blockchain Technology, AI Integration, Full-Stack Development... or anything here
+
+⚡ Interesting insight: The intricate design of modern AI systems is inspired by the complexity and efficiency of the human brain.
 
  </div>
- 
 <div align="center"> 
   <a href="mailto:pedro.sales.synapses1230975@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -31,9 +25,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
  <hr/>
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
